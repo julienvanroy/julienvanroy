@@ -5,7 +5,7 @@
 <h1><img src="assets/img/hi.gif" width="30"/>Hi , I'm Julien Vanroy</h1>
 
 - 🔭 I’m creative developer [@akqa](https://github.com/akqa)
-- 👨‍🎓 I'm student [@gobelins](https://github.com/gobelins)
+- 👨‍🎓 I'm alumni [@gobelins](https://github.com/gobelins)
 - 🌱 I’m currently learning **JavaScript and WebGl**
 - 📫 How to reach me: [@jujuonelove](https://twitter.com/jujuonelove) on Twitter
 
