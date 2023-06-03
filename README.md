@@ -1,5 +1,4 @@
 <a href="https://bento.me/julienvanroy"><img src="https://img.shields.io/badge/-Bento-768cff?style=flat&logo=Bento&logoColor=white"/></a>
-<span><img src="https://visitor-badge.glitch.me/badge?page_id=julienvanroy.julienvanroy"/></span>
 <a href="https://github.com/julienvanroy"><img src="https://img.shields.io/github/followers/julienvanroy?label=Follow&style=social"/></a>
 <img src="assets/img/hr.gif">
 <h1><img src="assets/img/hi.gif" width="30"/>Hi , I'm Julien Vanroy</h1>
