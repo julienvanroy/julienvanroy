@@ -6,7 +6,7 @@
 
 - 🔭 I’m creative developer [@akqa](https://github.com/akqa)
 - 👨‍🎓 I'm alumni [@gobelins](https://github.com/gobelins)
-- 🌱 I’m currently learning **JavaScript and WebGl**
+- 🌱 I like **JavaScript and WebGl**
 - 📫 How to reach me: [@jujuonelove](https://twitter.com/jujuonelove) on Twitter
 
 ### 🛠 Tech Stack
