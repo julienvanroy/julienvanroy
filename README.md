@@ -1,56 +1,75 @@
-<a href="https://bento.me/julienvanroy"><img src="https://img.shields.io/badge/-Bento-768cff?style=flat&logo=Bento&logoColor=white"/></a>
-<a href="https://github.com/julienvanroy"><img src="https://img.shields.io/github/followers/julienvanroy?label=Follow&style=social"/></a>
+<a href="https://bento.me/julienvanroy"><img src="https://img.shields.io/badge/-Bento-768cff?style=for-the-badge&logo=Bento&logoColor=white"/></a>
+<a href="https://github.com/julienvanroy"><img src="https://img.shields.io/github/followers/julienvanroy?label=Follow&style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="assets/img/hr.gif">
-<h1><img src="assets/img/hi.gif" width="30"/>Hi , I'm Julien Vanroy</h1>
+<h1><img src="assets/img/hi.gif" width="30"/> Hi, I'm Julien Vanroy</h1>
 
-- 🔭 I’m creative developer [@akqa](https://github.com/akqa)
-- 👨‍🎓 I'm alumni [@gobelins](https://github.com/gobelins)
-- 🌱 I like **JavaScript and WebGl**
-- 📫 How to reach me: [@jujuonelove](https://twitter.com/jujuonelove) on Twitter
+✨ **Creative Front-end Developer** based in Paris, crafting interactive digital experiences at the intersection of code, design and creativity.
 
-### 🛠 Tech Stack
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![WebGl](https://img.shields.io/badge/-WebGl-05122A?style=flat&logo=WEBGL)
-![GLSL](https://img.shields.io/badge/-GLSL-05122A?style=flat&logo=OpenGL)
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vuedotjs)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQl)
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)
-![Symfony](https://img.shields.io/badge/-Symfony-05122A?style=flat&logo=Symfony)
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel)
-![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=Wordpress)
-![Strapi](https://img.shields.io/badge/-Strapi-05122A?style=flat&logo=Strapi)
-![Prismic](https://img.shields.io/badge/-Prismic-05122A?style=flat&logo=Prismic)
-![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)
-![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)
-![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- 🎨 Specialized in **WebGL, WebGPU, 3D** and immersive web experiences
+- ⚡ Focused on **performance, accessibility** and production-ready code
+- 🏢 4+ years building premium digital projects for luxury brands
+- 🎓 Alumni **Gobelins** — Master in Interactive Innovation Management
 
 <img src="assets/img/hr.gif">
 
-### ⚡ GitHub Statistics
+### 💻 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### ⚛️ Frameworks & Libraries
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### 🎮 Creative & 3D
+
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+![WebGPU](https://img.shields.io/badge/WebGPU-005A9C?style=for-the-badge&logo=w3c&logoColor=white)
+![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+### 🗄️ CMS & Backend
+
+![Storyblok](https://img.shields.io/badge/Storyblok-09B3AF?style=for-the-badge&logo=storyblok&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white)
+![Prismic](https://img.shields.io/badge/Prismic-5163BA?style=for-the-badge&logo=prismic&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛠️ Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+<img src="assets/img/hr.gif">
+
+### 📊 GitHub Statistics
 
 <table>
   <tr>
     <td valign="top">
-        <a href="https://github.com/julienvanroy"><img src="https://github-readme-stats.vercel.app/api?username=julienvanroy&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark" alt="Anurag's GitHub stats"/></a>
+        <a href="https://github.com/julienvanroy"><img src="https://github-readme-stats-julienvanroy.vercel.app/api?username=julienvanroy&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark" alt="GitHub stats"/></a>
         <a href="https://github.com/julienvanroy"><img src="https://github-readme-streak-stats.herokuapp.com?user=julienvanroy&theme=github-dark&dates=58A6FF&fire=1F6FEB&ring=58A6FF&stroke=58A6FF&text_color=C3D1D9&background=0D1117&date_format=M%20j%5B%2C%20Y%5D&border=white" alt="GitHub Streak"/></a>
     </td>
     <td valign="top">
-        <a href="https://github.com/julienvanroy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julienvanroy&count_private=true&show_icons=true&include_all_commits=true&layout=compact&langs_count=6&theme=github_dark" alt="Top Langs"/></a>
+        <a href="https://github.com/julienvanroy"><img src="https://github-readme-stats-julienvanroy.vercel.app/api/top-langs/?username=julienvanroy&count_private=true&show_icons=true&include_all_commits=true&layout=compact&langs_count=6&theme=github_dark" alt="Top Langs"/></a>
         <p>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
     </td>
   </tr>
