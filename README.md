@@ -64,13 +64,24 @@
 
 <table>
   <tr>
-    <td valign="top">
-        <a href="https://github.com/julienvanroy"><img src="https://github-readme-stats-julienvanroy.vercel.app/api?username=julienvanroy&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark" alt="GitHub stats"/></a>
-        <a href="https://github.com/julienvanroy"><img src="https://github-readme-streak-stats.herokuapp.com?user=julienvanroy&theme=github-dark&dates=58A6FF&fire=1F6FEB&ring=58A6FF&stroke=58A6FF&text_color=C3D1D9&background=0D1117&date_format=M%20j%5B%2C%20Y%5D&border=white" alt="GitHub Streak"/></a>
+    <td width="50%">
+      <a href="https://github.com/julienvanroy">
+        <img src="https://github-readme-stats-julienvanroy.vercel.app/api?username=julienvanroy&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="GitHub stats"/>
+      </a>
     </td>
-    <td valign="top">
-        <a href="https://github.com/julienvanroy"><img src="https://github-readme-stats-julienvanroy.vercel.app/api/top-langs/?username=julienvanroy&count_private=true&show_icons=true&include_all_commits=true&layout=compact&langs_count=6&theme=github_dark" alt="Top Langs"/></a>
-        <p>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+    <td width="50%">
+      <a href="https://github.com/julienvanroy">
+        <img src="https://github-readme-streak-stats-julienvanroy.vercel.app?user=julienvanroy&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/julienvanroy">
+        <img src="https://github-readme-stats-julienvanroy.vercel.app/api/top-langs/?username=julienvanroy&count_private=true&show_icons=true&include_all_commits=true&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Langs"/>
+      </a>
+      <br>
+      <sub>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sub>
     </td>
   </tr>
 </table>
