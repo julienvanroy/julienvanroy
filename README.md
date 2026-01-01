@@ -3,7 +3,7 @@
 <img src="assets/img/hr.gif">
 <h1><img src="assets/img/hi.gif" width="30"/> Hi, I'm Julien Vanroy</h1>
 
-✨ **Creative Front-end Developer & Freelance** based in Paris, crafting interactive digital experiences at the intersection of code, design and creativity.
+✨ **Creative Developer & Freelance** based in Paris, crafting interactive digital experiences at the intersection of code, design and creativity.
 
 - 🎨 Specialized in **WebGL, WebGPU, 3D** and immersive web experiences
 - ⚡ Focused on **performance, accessibility** and production-ready code
