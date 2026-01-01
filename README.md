@@ -3,12 +3,12 @@
 <img src="assets/img/hr.gif">
 <h1><img src="assets/img/hi.gif" width="30"/> Hi, I'm Julien Vanroy</h1>
 
-✨ **Creative Front-end Developer** based in Paris, crafting interactive digital experiences at the intersection of code, design and creativity.
+✨ **Creative Front-end Developer & Freelance** based in Paris, crafting interactive digital experiences at the intersection of code, design and creativity.
 
 - 🎨 Specialized in **WebGL, WebGPU, 3D** and immersive web experiences
 - ⚡ Focused on **performance, accessibility** and production-ready code
-- 🏢 4+ years building premium digital projects for luxury brands
-- 🎓 Alumni **Gobelins** — Master in Interactive Innovation Management
+- 🏢 4+ years building premium digital projects for luxury brands — Ex @akqa
+- 🎓 Alumni @gobelins — Master in Interactive Innovation Management
 
 <img src="assets/img/hr.gif">
 
@@ -64,24 +64,24 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" align="center" valign="top">
       <a href="https://github.com/julienvanroy">
-        <img src="https://github-readme-stats-julienvanroy.vercel.app/api?username=julienvanroy&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="GitHub stats"/>
+        <img src="https://github-readme-stats-julienvanroy.vercel.app/api?username=julienvanroy&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&hide_rank=true" alt="GitHub stats"/>
       </a>
     </td>
-    <td width="50%">
-      <a href="https://github.com/julienvanroy">
-        <img src="https://github-readme-streak-stats-julienvanroy.vercel.app?user=julienvanroy&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
+    <td width="50%" align="center" valign="top">
       <a href="https://github.com/julienvanroy">
         <img src="https://github-readme-stats-julienvanroy.vercel.app/api/top-langs/?username=julienvanroy&count_private=true&show_icons=true&include_all_commits=true&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Langs"/>
       </a>
       <br>
       <sub>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/julienvanroy">
+        <img src="https://github-readme-streak-stats-julienvanroy.vercel.app?user=julienvanroy&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+      </a>
     </td>
   </tr>
 </table>
