@@ -7,8 +7,8 @@
 
 - 🎨 Specialized in **WebGL, WebGPU, 3D** and immersive web experiences
 - ⚡ Focused on **performance, accessibility** and production-ready code
-- 🏢 4+ years building premium digital projects for luxury brands — Ex @akqa
-- 🎓 Alumni @gobelins — Master in Interactive Innovation Management
+- 🏢 4+ years building premium digital projects for luxury brands — Ex **AKQA Paris**
+- 🎓 Alumni **GOBELINS Paris** — Master in Interactive Innovation Management
 
 <img src="assets/img/hr.gif">
 
