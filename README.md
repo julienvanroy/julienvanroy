@@ -1,5 +1,7 @@
+<a href="mailto:hello@julienvanroy.fr"><img src="https://img.shields.io/badge/🟢_Available_for_Freelance-Remote-2ea44f?style=for-the-badge"/></a>
+<a href="mailto:hello@julienvanroy.fr"><img src="https://img.shields.io/badge/Email-hello@julienvanroy.fr-333333?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/🌍_CET-English_/_French-blue?style=for-the-badge"/>
 <a href="https://bento.me/julienvanroy"><img src="https://img.shields.io/badge/-Bento-768cff?style=for-the-badge&logo=Bento&logoColor=white"/></a>
-<a href="https://github.com/julienvanroy"><img src="https://img.shields.io/github/followers/julienvanroy?label=Follow&style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="assets/img/hr.gif">
 <h1><img src="assets/img/hi.gif" width="30"/> Hi, I'm Julien Vanroy</h1>
 
