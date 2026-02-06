@@ -89,5 +89,5 @@
 
 <img src="assets/img/hr.gif">
 
-<a href="https://bento.me/julienvanroy"><img src="https://img.shields.io/badge/-Bento-768cff?style=for-the-badge&logo=Bento&logoColor=white"/></a>
+<a href="https://taap.bio/julienvanroy"><img src="https://img.shields.io/badge/-Taap.bio-1daa7d?style=for-the-badge&logoColor=white"/></a>
 <a href="https://github.com/julienvanroy"><img src="https://img.shields.io/github/followers/julienvanroy?label=Follow&style=for-the-badge&logo=github&logoColor=white"/></a>
